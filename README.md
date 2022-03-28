@@ -1,1 +1,1 @@
-https://Ottilo.github.io/rsschool-cv/g
+https://Ottilo.github.io/rsschool-cv/
