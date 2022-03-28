@@ -1,4 +1,4 @@
-Name: Ottilo Vintse
+##Name: **Ottilo Vintse**
 Phone: +380969846158
 Email: ottilov@gmail.com
 Skype: ottilov
