@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Ottilo.github.io/rsschool-cv/
