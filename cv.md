@@ -15,10 +15,11 @@
 ## Education:
 
 _**Uzhhorod National University**_
-_Specialist_
-_1997 - 2002_
-_Economics and entrepreneurship_
-_Accounting and auditing_
+
+- _Specialist_
+- _1997 - 2002_
+- _Economics and entrepreneurship_
+- _Accounting and auditing_
 
 ## Responsibility:
 
