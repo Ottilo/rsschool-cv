@@ -1,31 +1,26 @@
 ## Contact
 
-### **Name:** _Ottilo Vintse_
-
-### **Phone:** _+380969846158_
-
-### **Email:** *ottilov@gmail.com*
-
-### **Skype:** _ottilov_
-
-### **Adress:** _Ukraine - Uzhgorod_
+- **Name:** _Ottilo Vintse_
+- **Phone:** _+380969846158_
+- **Email:** *ottilov@gmail.com*
+- **Skype:** _ottilov_
+- **Adress:** _Ukraine - Uzhgorod_
 
 ## Work experience:
 
-### _Manual QA Engineer_
+- _Manual QA Engineer_
+  _Freelance_
+  _July 2019 -_
 
-_Freelance_
-_July 2019 -_
+## Education:
 
-### Education:
-
-_Uzhhorod National University_
+_**Uzhhorod National University**_
 _Specialist_
 _1997 - 2002_
 _Economics and entrepreneurship_
 _Accounting and auditing_
 
-### Responsibility:
+## Responsibility:
 
 - Basic knowledge of HTML, CSS, JavaScript.
 - Understanding of STLC and standart testing methodologies, abilty to find unusual solutions if needed.
@@ -33,7 +28,7 @@ _Accounting and auditing_
 - Understanding of Agile, Scrum and Kanban methodologies.
 - IOS and Android app testing.
 
-### Tools:
+## Tools:
 
 - JIRA
 - TestRail
@@ -42,14 +37,14 @@ _Accounting and auditing_
 - Figma
 - Rollbar
 
-### Languages:
+## Languages:
 
 - **Ukrainian** - _Native_
 - **English** - _Intermediate_
 - **Russian** - _Advanced_
 - **Hungarian** - _Intermediate_
 
-### Courses:
+## Courses:
 
 - _QATeasLab Training Center "The Fundamentals of Software Testing"_
 - _"HTML, CSS, JavaScript"_
